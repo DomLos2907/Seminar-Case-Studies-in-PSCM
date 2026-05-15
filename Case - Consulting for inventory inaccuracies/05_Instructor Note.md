@@ -1,4 +1,4 @@
-# Instructor Note (Hidden for students)
+# Instructor Note (Non-public in GitHub and invidible for students)
 
 This note is intended for instructors and facilitators. The case is designed to be challenging but solvable with Excel-based data analysis, especially if teams use Power Query, pivot tables, structured formulas, or Python/R for preprocessing.
 
