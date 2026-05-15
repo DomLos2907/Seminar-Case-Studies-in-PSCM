@@ -48,7 +48,7 @@ The board has asked an external student consulting team to answer one question:
 
 ## The Decision
 
-Matthias Hillmann must recommend a focused intervention program at the next executive meeting. She does not have the budget to redesign all store processes at once. She needs to know which assortment, store cluster, process step, or data-quality issue should be addressed first.
+Matthias Hillmann must recommend a focused intervention program at the next executive meeting. He does not have the budget to redesign all store processes at once. He needs to know which assortment, store cluster, process step, or data-quality issue should be addressed first.
 
 The student team must use the available data to build a defensible argument. A strong answer will not simply identify the assortment with the highest waste. It will distinguish between structural waste that is inherent to the assortment and avoidable waste that appears connected to inventory inaccuracy, ordering behavior, or weak process control.
 
