@@ -2,7 +2,7 @@
 
 ## Role
 
-You are a three-person analytics task force advising Norda Market's Chief Operations Officer. Your task is to diagnose inventory inaccuracies and waste patterns in frozen food, fresh produce, and bake-off bakery, then recommend a focused intervention program.
+You are a four-person analytics task force advising Norda Market's Chief Operations Officer. Your task is to diagnose inventory inaccuracies and waste patterns in frozen food, fresh produce, and bake-off bakery, then recommend a focused intervention program.
 
 ## Team Setup
 
