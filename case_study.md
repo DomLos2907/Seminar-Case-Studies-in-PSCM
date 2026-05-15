@@ -2,7 +2,7 @@
 
 ## Norda Market's Inventory Problem
 
-On a wet Monday morning in April, Norda Market's Chief Operations Officer, Lena Hartmann, stood in the back room of store 047 in Dortmund and looked at two versions of the same truth.
+On a wet Monday morning in April, Norda Market's Chief Operations Officer, Matthias Hillmann, stood in the back room of store 047 in Dortmund and looked at two versions of the same truth.
 
 The store system said that the branch had 42 units of frozen spinach in stock. The freezer cabinet held 18. The produce table looked worse. The system showed 31 mango packs, but the department manager counted 7 sellable packs and 11 damaged ones that had not yet been written off. At the bake-off counter, yesterday's thawed pastries had been thrown away before closing, but the waste booking had been entered only as a generic department adjustment.
 
