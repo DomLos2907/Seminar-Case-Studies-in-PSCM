@@ -1,6 +1,6 @@
 # Data Files
 
-This folder contains the generated Excel workbooks for the Asterion Motion Systems supplier-reliability case study.
+This folder contains the Excel workbooks for the Asterion Motion Systems supplier-reliability case study.
 
 The purchase order, goods receipt, and production demand data are split into GitHub-friendly parts:
 
@@ -13,11 +13,3 @@ The folder also contains:
 - `shortage_events.xlsx`
 - `expedite_shipments.xlsx`
 - `reference_tables.xlsx`
-
-If the Excel files are not present in a cloned copy of this repository, regenerate them with:
-
-```powershell
-python scripts/generate_supplier_reliability_datasets.py
-```
-
-The generated workbooks are fictional synthetic data for teaching purposes.
