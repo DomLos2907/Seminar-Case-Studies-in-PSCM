@@ -2,8 +2,6 @@
 
 This folder contains the generated Excel workbooks for the RheinMain CargoLink network-capacity case study.
 
-The shipment and linehaul data are split into GitHub-friendly parts:
-
 - `shipment_consignments_part_01_of_06.xlsx` through `shipment_consignments_part_06_of_06.xlsx`
 - `linehaul_movements_part_01_of_02.xlsx` through `linehaul_movements_part_02_of_02.xlsx`
 
