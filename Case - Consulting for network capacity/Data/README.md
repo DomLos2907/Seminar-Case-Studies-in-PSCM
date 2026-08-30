@@ -12,10 +12,3 @@ The folder also contains:
 - `daily_service_backlog.xlsx`
 - `reference_tables.xlsx`
 
-If the Excel files are not present in a cloned copy of this repository, regenerate them with:
-
-```powershell
-python scripts/generate_network_capacity_datasets.py
-```
-
-The generated workbooks are fictional synthetic data for teaching purposes.
