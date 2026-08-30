@@ -2,7 +2,7 @@
 
 ## Role
 
-You are a four-person analytics task force advising Norda Market's Chief Operations Officer. Your task is to diagnose inventory inaccuracies and waste patterns in frozen food, fresh produce, and bake-off bakery, then recommend a focused intervention program.
+You are an analytics task force advising Norda Market's Chief Operations Officer. Your task is to diagnose inventory inaccuracies and waste patterns in frozen food, fresh produce, and bake-off bakery, then recommend a focused intervention program.
 
 ## Team Setup
 
@@ -13,18 +13,6 @@ Each team should assign clear ownership for:
 - Ordering-policy and management-recommendation design.
 
 Teams may use Excel as the primary tool. Python, R, Power BI, or similar tools are permitted for data preparation, visualization, and robustness checks.
-
-## Required Deliverables
-
-Before the final session, each team must submit:
-
-- An Excel model or workbook containing the cleaned analysis, assumptions, calculations, and key outputs.
-- A management presentation of up to 10 slides.
-
-At the final face-to-face session, each team will deliver:
-
-- A 15-minute management presentation.
-- A 10-minute Q&A defending assumptions, data-cleaning choices, and recommendations.
 
 ## Suggested Milestones
 
