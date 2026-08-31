@@ -14,31 +14,6 @@ Each team should assign clear ownership for:
 
 Teams may use Excel as the primary tool. Python, R, Power BI, or similar tools are permitted for data preparation, visualization, and robustness checks.
 
-## Suggested Milestones
-
-### Kick-off Session
-
-- Understand the business context and constraints.
-- Inspect the data structure and assign team roles.
-- Form initial hypotheses about capacity bottlenecks and service failures.
-
-### Online Meeting 1
-
-- Present a data-quality assessment.
-- Show preliminary capacity-utilization indicators by location, lane, service class, and date.
-- Identify records that should be excluded, corrected, or flagged.
-
-### Online Meeting 2
-
-- Present backlog, overflow, and service-level patterns.
-- Link service outcomes to location capacity, linehaul capacity, cut-off adherence, and transaction anomalies.
-- Draft the intervention logic and expected management impact.
-
-### Final Session
-
-- Deliver a management recommendation.
-- Defend the analytical method and practical feasibility.
-
 ## Core Questions
 
 1. Which locations show the most severe capacity problem after adjusting for their network role?
