@@ -2,7 +2,7 @@
 
 This case study places students in the role of an analytics task force at RheinMain CargoLink, a fictional general cargo carrier operating a hub-and-depot network across Germany. The company is under pressure to improve service levels while deciding whether capacity should be added, reallocated, or managed through different operating rules.
 
-The material is designed for undergraduate students in logistics and supply chain management, with prior exposure to data analysis. The main analytical work can be completed in Excel, but students may also use Python, R, Power BI, or similar tools for cleaning, modelling, and visualization.
+The material is designed for students in production, logistics and supply chain management, with prior exposure to data analysis. The main analytical work can be completed in Excel, but students may also use Python, R, Power BI, or similar tools for cleaning, modelling, and visualization.
 
 ## Learning Objectives
 
