@@ -36,7 +36,7 @@ Your analysis should include:
 - Capacity-accuracy indicators, such as utilization rate, overflow frequency, missing-capacity share, missed-cutoff rate, and backlog intensity.
 - Service indicators, such as on-time rate, late consignments, backlog units, overflow handling units, and service performance by class.
 - A comparison across depots, hubs, linehaul lanes, and service classes.
-- At least three visualizations suitable for a management audience.
+- Visualizations suitable for a management audience.
 - A prioritized intervention roadmap with expected impact and implementation effort.
 
 ## Evaluation Criteria
