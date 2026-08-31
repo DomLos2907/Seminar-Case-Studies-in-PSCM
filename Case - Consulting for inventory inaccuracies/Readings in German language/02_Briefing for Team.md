@@ -45,7 +45,7 @@ Ihre Arbeit wird bewertet nach:
 
 - Geschäftsrelevanz und Klarheit der Empfehlung.
 - Qualität der Datenaufbereitung und Transparenz der Annahmen.
-- Fähigkeit, operativen Waste von Datenqualitätsrauschen zu unterscheiden.
+- Fähigkeit, operativen Warenverlust von Datenqualitätsrauschen zu unterscheiden.
 - Analytischer Tiefe im Verhältnis zu den verfügbaren Daten.
 - Qualität der visuellen Kommunikation.
 - Stärke der Verteidigung im Q&A.
