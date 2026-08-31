@@ -14,31 +14,6 @@ Jedes Team sollte klare Verantwortlichkeiten festlegen für:
 
 Teams können Excel als primäres Werkzeug verwenden. Python, R, Power BI oder vergleichbare Werkzeuge sind für Datenaufbereitung, Visualisierung und Robustheitsprüfungen erlaubt.
 
-## Vorgeschlagene Meilensteine
-
-### Kick-off
-
-- Geschäftskontext und Restriktionen verstehen.
-- Datenstruktur prüfen und Teamrollen festlegen.
-- Erste Hypothesen zu Kapazitätsengpässen und Serviceausfällen formulieren.
-
-### Online-Termin 1
-
-- Eine Datenqualitätsbewertung präsentieren.
-- Erste Kapazitäts- und Auslastungskennzahlen nach Standort, Lane, Service Class und Datum zeigen.
-- Datensätze identifizieren, die ausgeschlossen, korrigiert oder markiert werden sollten.
-
-### Online-Termin 2
-
-- Backlog-, Overflow- und Service-Level-Muster präsentieren.
-- Serviceergebnisse mit Standortkapazität, Linehaul-Kapazität, Cut-off-Einhaltung und Datenanomalien verknüpfen.
-- Die Interventionslogik und den erwarteten Managementeffekt skizzieren.
-
-### Abschlussveranstaltung
-
-- Eine Managementempfehlung präsentieren.
-- Analytische Methode und praktische Umsetzbarkeit verteidigen.
-
 ## Kernfragen
 
 1. Welche Standorte zeigen nach Berücksichtigung ihrer Netzwerkrolle das schwerwiegendste Kapazitätsproblem?
