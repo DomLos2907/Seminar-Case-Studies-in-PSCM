@@ -1,8 +1,8 @@
 # Bestandsungenauigkeiten im Lebensmitteleinzelhandel
 
-Diese Fallstudie versetzt Studierende in die Rolle eines Analytics-Task-Force-Teams bei Norda Market, einem fiktiven mittelgroßen Lebensmitteleinzelhändler mit Filialen in Deutschland. Das Unternehmen steht unter Druck, vermeidbaren Waste zu reduzieren und die Bestandsgenauigkeit in drei operativ unterschiedlichen Sortimenten zu verbessern: Tiefkühlprodukte, Frischobst und -gemüse sowie Bake-off-Backwaren.
+Diese Fallstudie versetzt Studierende in die Rolle eines Analytics-Task-Force-Teams bei Norda Market, einem fiktiven mittelgroßen Lebensmitteleinzelhändler mit Filialen in Deutschland. Das Unternehmen steht unter Druck, vermeidbaren Warenverlust zu reduzieren und die Bestandsgenauigkeit in drei operativ unterschiedlichen Sortimenten zu verbessern: Tiefkühlprodukte, Frischobst und -gemüse sowie Bake-off-Backwaren.
 
-Das Material ist für Studierende in Logistik und Supply Chain Management konzipiert, die bereits erste Erfahrungen in der Datenanalyse haben. Die zentrale analytische Arbeit kann in Excel durchgeführt werden. Studierende können jedoch auch Python, R, Power BI oder vergleichbare Werkzeuge für Datenbereinigung, Modellierung und Visualisierung einsetzen.
+Das Material ist für Studierende im Bereich Produktion, Logistik und Supply Chain Management konzipiert, die bereits erste Erfahrungen in der Datenanalyse haben. Die zentrale analytische Arbeit kann in Excel durchgeführt werden. Studierende können jedoch auch Python, R, Power BI oder vergleichbare Werkzeuge für Datenbereinigung, Modellierung und Visualisierung einsetzen.
 
 ## Lernziele
 
