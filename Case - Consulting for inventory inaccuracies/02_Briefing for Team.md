@@ -33,7 +33,7 @@ Your analysis should include:
 
 - A reproducible data-cleaning logic.
 - A transaction-type reconciliation by assortment.
-- Inventory-accuracy indicators, such as count-adjustment rate, negative-stock frequency, correction intensity, and unexplained movement share.
+- Inventory-accuracy indicators, such as count-adjustment rate, negative-stock frequency, correction intensity, and unexplained movements.
 - Waste indicators, such as waste units, waste cost, waste-to-sales ratio, and waste by reason.
 - A comparison across frozen food, produce, and bakery.
 - Visualizations suitable for a management audience.
