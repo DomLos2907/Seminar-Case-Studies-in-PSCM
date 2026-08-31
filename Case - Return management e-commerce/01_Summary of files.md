@@ -2,7 +2,7 @@
 
 This case study places students in the role of an analytics task force at LumaHome Online, a fictional European e-commerce retailer selling apparel, footwear, consumer electronics, home living products, sports equipment, and seasonal assortments. The company is growing quickly, but high return rates, limited inspection capacity, and value loss from delayed remarketing are putting pressure on profitability and customer experience.
 
-The material is designed for undergraduate students in logistics and supply chain management, with prior exposure to data analysis. The main analytical work can be completed in Excel, but students may also use Python, R, Power BI, or similar tools for cleaning, modelling, and visualization.
+The material is designed for students in production, logistics, and supply chain management, with prior exposure to data analysis. The main analytical work can be completed in Excel, but students may also use Python, R, Power BI, or similar tools for cleaning, modelling, and visualization.
 
 ## Learning Objectives
 
