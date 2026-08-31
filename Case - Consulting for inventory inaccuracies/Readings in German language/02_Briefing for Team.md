@@ -33,7 +33,7 @@ Ihre Analyse sollte enthalten:
 
 - Eine reproduzierbare Logik zur Datenbereinigung.
 - Eine Abstimmung der Transaktionstypen nach Sortiment.
-- Kennzahlen zur Bestandsgenauigkeit, z. B. Inventurkorrekturrate, Häufigkeit negativer Bestände, Korrekturintensität und unerklärte Bewegungen.
+- Kennzahlen zur Bestandsgenauigkeit, z. B. Inventurkorrekturrate, negative Bestände, Korrekturintensität und unerklärte Bewegungen.
 - Warenverlust-Kennzahlen, z. B. Mengen, Kosten, Warenverlust-Abverkauf-Rate und Warenverlust nach Grund.
 - Einen Vergleich zwischen Tiefkühlprodukten, Obst und Gemüse sowie Backwaren.
 - Mindestens drei Visualisierungen, die für ein Managementpublikum geeignet sind.
