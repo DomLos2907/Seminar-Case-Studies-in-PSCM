@@ -20,7 +20,7 @@ Die betrachteten Kapazitätsbereiche unterscheiden sich operativ deutlich:
 
 ### Depot Handling
 
-Depots holen Fracht bei Kunden ab, entladen eingehende Fahrzeuge, konsolidieren Sendungen und bereiten den Outbound-Linehaul vor. Die Nachfrage ist ungleich über Wochentage, Regionen und Kundensegmente verteilt. Depot-Handling-Kapazität wird typischerweise in Handling Units pro Tag gemessen. Wenn Serviceprobleme auftreten, stehen sie häufig in Zusammenhang mit verspäteter Frachtbereitschaft, verpassten Cut-offs, unzureichendem Durchsatz am Abend oder schwacher Flusssteuerung zwischen Inbound- und Outbound-Prozessen.
+Depots holen Fracht bei Kunden ab, entladen eingehende Fahrzeuge, konsolidieren Sendungen und bereiten den Outbound-Linehaul vor. Die Nachfrage ist ungleich über Wochentage, Regionen und Kundensegmente verteilt. Depot-Handling-Kapazität wird typischerweise in Handling Units pro Tag gemessen. Wenn Serviceprobleme auftreten, stehen sie häufig in Zusammenhang mit verspäteter Frachtbereitschaft, verpassten Cut-offs, unzureichendem Durchsatz am Abend oder unzureichender Steuerung zwischen Inbound- und Outbound-Prozessen.
 
 Depotmanager können Überstunden und temporäre Arbeitskräfte einsetzen, aber diese Maßnahmen helfen nur, wenn Personal der begrenzende Faktor ist. Wenn Docktore oder Yard-Fläche ausgeschöpft sind, führt zusätzliches Personal nicht automatisch zu höherem Durchsatz.
 
