@@ -2,7 +2,7 @@
 
 Diese Fallstudie versetzt Studierende in die Rolle eines Analytics-Task-Force-Teams bei RheinMain CargoLink, einem fiktiven Stückgutdienstleister mit einem Hub-and-Depot-Netzwerk in Deutschland. Das Unternehmen steht unter Druck, Service Levels zu verbessern und zugleich zu entscheiden, ob Kapazität erweitert, anders zugeordnet oder über veränderte operative Regeln gesteuert werden sollte.
 
-Das Material ist für Studierende in Logistik und Supply Chain Management konzipiert, die bereits erste Erfahrungen in der Datenanalyse haben. Die zentrale analytische Arbeit kann in Excel durchgeführt werden. Studierende können jedoch auch Python, R, Power BI oder vergleichbare Werkzeuge für Datenbereinigung, Modellierung und Visualisierung einsetzen.
+Das Material ist für Studierende in Produktion, Logistik und Supply Chain Management konzipiert, die bereits erste Erfahrungen in der Datenanalyse haben. Die zentrale analytische Arbeit kann in Excel durchgeführt werden. Studierende können jedoch auch Python, R, Power BI oder vergleichbare Werkzeuge für Datenbereinigung, Modellierung und Visualisierung einsetzen.
 
 ## Lernziele
 
