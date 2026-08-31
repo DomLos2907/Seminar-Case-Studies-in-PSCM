@@ -14,31 +14,6 @@ Jedes Team sollte klare Verantwortlichkeiten festlegen für:
 
 Teams können Excel als primäres Werkzeug verwenden. Python, R, Power BI oder vergleichbare Werkzeuge sind für Datenaufbereitung, Visualisierung und Robustheitsprüfungen erlaubt.
 
-## Vorgeschlagene Meilensteine
-
-### Kick-off
-
-- Geschäftskontext und Restriktionen verstehen.
-- Datenstruktur prüfen und Teamrollen festlegen.
-- Erste Hypothesen zu Bestandsungenauigkeiten und Waste-Treibern formulieren.
-
-### Online-Termin 1
-
-- Eine Datenqualitätsbewertung präsentieren.
-- Erste Kennzahlen zur Bestandsgenauigkeit nach Sortiment, Filialcluster und SKU-Gruppe zeigen.
-- Datensätze identifizieren, die ausgeschlossen, korrigiert oder markiert werden sollten.
-
-### Online-Termin 2
-
-- Waste- und Abschriftenmuster präsentieren.
-- Waste-Ergebnisse mit Bestandssignalen, Bestellverhalten und Buchungsanomalien verknüpfen.
-- Die Interventionslogik und den erwarteten Managementeffekt skizzieren.
-
-### Abschlussveranstaltung
-
-- Eine Managementempfehlung präsentieren.
-- Analytische Methode und praktische Umsetzbarkeit verteidigen.
-
 ## Kernfragen
 
 1. Welches Sortiment zeigt nach Berücksichtigung seiner operativen Eigenschaften das schwerwiegendste Problem der Bestandsgenauigkeit?
