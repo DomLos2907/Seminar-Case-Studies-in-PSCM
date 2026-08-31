@@ -8,7 +8,7 @@ Das Material richtet sich an Studierende im Bereich Produktion, Logistik und Sup
 
 - Retourentreiber anhand von Order Lines, Return Authorizations, Inspection Events, Refund Transactions, Resale Disposition und Kapazitätsdaten diagnostizieren.
 - Kundenserviceversprechen mit Prüfkapazität, Backlog, Refund Speed, Resale Recovery und Write-off-Risiko vergleichen.
-- Identifizieren, wo Prozessverzögerungen Wertverlust erzeugen und wo schnellere Triage den grössten Effekt hätte.
+- Identifizieren, wo Prozessverzögerungen Wertverlust erzeugen und wo schnellere Triage den größten Effekt hätte.
 - Beurteilen, ob Return Policy, Inspection Routing, Staffing, Refurbishment und Remarketing-Entscheidungen geändert werden sollten.
 - Datenbasierte Managementempfehlungen formulieren, die Customer Experience, operative Kapazität und finanzielle Recovery ausbalancieren.
 
