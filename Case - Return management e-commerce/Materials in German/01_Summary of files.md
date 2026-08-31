@@ -1,6 +1,6 @@
 # Retourenmanagement im E-Commerce
 
-Diese Fallstudie versetzt Studierende in die Rolle eines Analytics Task Force bei LumaHome Online, einem fiktiven europaeischen Onlinehaendler fuer Bekleidung, Schuhe, Unterhaltungselektronik, Wohnprodukte, Sportartikel und saisonale Sortimente. Das Unternehmen waechst schnell, aber hohe Retourenquoten, begrenzte Pruefkapazitaet und Wertverlust durch verspaetete Wiedervermarktung belasten Profitabilitaet und Kundenerlebnis.
+Diese Fallstudie versetzt Studierende in die Rolle eines Analytics Task Force bei LumaHome Online, einem fiktiven europaeischen Onlinehaendler für Bekleidung, Schuhe, Unterhaltungselektronik, Wohnprodukte, Sportartikel und saisonale Sortimente. Das Unternehmen waechst schnell, aber hohe Retourenquoten, begrenzte Pruefkapazitaet und Wertverlust durch verspaetete Wiedervermarktung belasten Profitabilitaet und Kundenerlebnis.
 
 Das Material richtet sich an Studierende im Bereich Produktion, Logistik und Supply Chain Management mit vorhandenen Grundlagen in Datenanalyse. Die Hauptanalyse kann in Excel bearbeitet werden. Python, R, Power BI oder vergleichbare Werkzeuge koennen fuer Datenbereinigung, Modellierung und Visualisierung eingesetzt werden.
 
