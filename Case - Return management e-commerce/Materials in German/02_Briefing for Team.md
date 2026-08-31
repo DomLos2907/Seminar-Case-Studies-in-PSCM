@@ -9,7 +9,7 @@ Sie sind ein Analytics Task Force und beraten die Chief Operations Officer von L
 Jedes Team sollte klare Verantwortlichkeiten vergeben für:
 
 - Datenqualität, Produktmix und Retourenquoten-Diagnostik.
-- Prüfkapazität, Backlog, Refund Speed und Prozeßflußanalyse.
+- Prüfkapazität, Backlog, Refund Speed und Prozessflußanalyse.
 - Resale Recovery, Wertverlustmodellierung und Managementempfehlung.
 
 Excel kann als primäres Analysewerkzeug genutzt werden. Python, R, Power BI oder vergleichbare Werkzeuge sind für Datenaufbereitung, Visualisierung und Robustheitsprüfungen erlaubt.
