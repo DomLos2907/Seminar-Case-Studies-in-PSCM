@@ -14,31 +14,6 @@ Each team should assign clear ownership for:
 
 Teams may use Excel as the primary tool. Python, R, Power BI, or similar tools are permitted for data preparation, visualization, and robustness checks.
 
-## Suggested Milestones
-
-### Kick-off Session
-
-- Understand the business context and constraints.
-- Inspect the data structure and assign team roles.
-- Form initial hypotheses about return drivers, capacity bottlenecks, and value loss.
-
-### Online Meeting 1
-
-- Present a data-quality assessment.
-- Show preliminary return-rate indicators by product category, customer segment, sales channel, promotion type, and fulfillment center.
-- Identify records that should be excluded, corrected, or flagged.
-
-### Online Meeting 2
-
-- Present inspection backlog, refund, and resale recovery patterns.
-- Link return outcomes to product category, condition grade, inspection routing, processing delay, capacity utilization, and remarketing channel.
-- Draft the intervention logic and expected management impact.
-
-### Final Session
-
-- Deliver a management recommendation.
-- Defend the analytical method and practical feasibility.
-
 ## Core Questions
 
 1. Which product categories, customer segments, and channels create the highest return burden after adjusting for sales volume and item value?
