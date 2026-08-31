@@ -14,31 +14,6 @@ Each team should assign clear ownership for:
 
 Teams may use Excel as the primary tool. Python, R, Power BI, or similar tools are permitted for data preparation, visualization, and robustness checks.
 
-## Suggested Milestones
-
-### Kick-off Session
-
-- Understand the business context and constraints.
-- Inspect the data structure and assign team roles.
-- Form initial hypotheses about inventory inaccuracy and waste drivers.
-
-### Online Meeting 1
-
-- Present a data-quality assessment.
-- Show preliminary inventory-accuracy indicators by assortment, store cluster, and SKU group.
-- Identify records that should be excluded, corrected, or flagged.
-
-### Online Meeting 2
-
-- Present waste and write-off patterns.
-- Link waste outcomes to inventory signals, ordering behavior, and transaction anomalies.
-- Draft the intervention logic and expected management impact.
-
-### Final Session
-
-- Deliver a management recommendation.
-- Defend the analytical method and practical feasibility.
-
 ## Core Questions
 
 1. Which assortment shows the most severe inventory-accuracy problem after adjusting for its operational characteristics?
