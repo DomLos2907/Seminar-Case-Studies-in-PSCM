@@ -19,24 +19,6 @@ The material is designed for students in production, logistics and supply chain 
 - Online meeting 2: bottleneck, service-level, backlog, and cost-impact analysis.
 - Final face-to-face session: management presentation and Q&A.
 
-## Files
-
-- `01_Summary of files.md`: overview of the case package.
-- `02_Briefing for Team.md`: deliverables, milestones, and guiding questions.
-- `03_Case Description.md`: student-facing case narrative.
-- `04_Data Dictionary.md`: field definitions, network logic, and known limitations.
-- `05_Dataset Summary.md`: generation and verification summary.
-- `instructor_note.md`: teaching guidance, likely solution pathways, and facilitation notes.
-- `data/shipment_consignments_part_01_of_06.xlsx` through `part_06_of_06`: shipment-level consignment data.
-- `data/linehaul_movements_part_01_of_02.xlsx` through `part_02_of_02`: linehaul movement data.
-- `data/daily_location_capacity.xlsx`: location-day capacity and workload data.
-- `data/daily_lane_capacity.xlsx`: lane-day capacity data.
-- `data/daily_service_backlog.xlsx`: daily service and backlog data.
-- `data/reference_tables.xlsx`: location, lane, cost, and calendar reference data.
-- `scripts/generate_network_capacity_datasets.py`: reproducible synthetic data generator.
-
-If a cloned repository does not include the Excel workbooks, regenerate them locally with the script above. The generator creates the same workbook structure and row counts.
-
 ## Dataset Scope
 
 The dataset covers a three-month operating window in a general cargo network. It includes 480,000 shipment-level consignment records, 120,000 linehaul movement records, and daily capacity, lane, service, backlog, and reference data. The records intentionally contain realistic data-quality issues such as missing values, inconsistent service-class labels, duplicate consignment IDs, capacity gaps, overflow events, missed cut-offs, and outlier weights.
