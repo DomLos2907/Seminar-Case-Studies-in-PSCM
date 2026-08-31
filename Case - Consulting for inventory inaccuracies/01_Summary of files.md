@@ -1,8 +1,8 @@
 # Inventory Inaccuracies in Food Retail
 
-This case study places students in the role of an analytics task force at Norda Market, a fictional mid-sized food retailer operating stores across Germany. The company is under pressure to reduce avoidable waste and recover inventory accuracy in three operationally different assortments: frozen food, fresh produce, and bake-off bakery.
+This case study places students in the role of an analytics task force at Norda Market, a fictional mid-sized food retailer operating stores across Germany. The company is under pressure to reduce avoidable waste and recover inventory accuracy in three operationally different assortments: frozen, fresh, and bake-off products.
 
-The material is designed for undergraduate students in logistics and supply chain management, with prior exposure to data analysis. The main analytical work can be completed in Excel, but students may also use Python, R, Power BI, or similar tools for cleaning, modelling, and visualization.
+The material is designed for students in production, logistics and supply chain management, with prior exposure to data analysis. The main analytical work can be completed in Excel, but students may also use Python, R, Power BI, or similar tools for cleaning, modelling, and visualization.
 
 ## Learning Objectives
 
