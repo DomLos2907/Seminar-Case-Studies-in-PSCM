@@ -4,11 +4,11 @@
 
 On a wet Monday morning in April, Norda Market's Chief Operations Officer, Matthias Hillmann, stood in the back room of store 047 in Dortmund and looked at two versions of the same truth.
 
-The store system said that the store had 42 units of frozen spinach in stock. The freezer cabinet held 18. The produce table looked worse. The system showed 31 mango packs, but the department manager counted 7 sellable packs and 11 damaged ones that had not yet been written off. At the bake-off counter, yesterday's thawed pastries had been thrown away before closing, but the waste booking had been entered only as a generic department adjustment.
+The store system said that the store had 42 units of frozen spinach in stock. The freezer cabinet held 18. The product table looked worse. The system showed 31 mango packs, but the department manager counted 7 sellable packs and 11 damaged ones that had not yet been written off. At the bake-off counter, yesterday's thawed pastries had been thrown away before closing, but the waste booking had been entered only as a generic department adjustment.
 
 Norda Market was not facing a single data problem. It was facing three operational problems that happened to be visible in the same inventory system.
 
-Frozen food moved through a disciplined cold-chain process and had long shelf lives. Waste was low, but pack-size conversions and transfer bookings between stores occasionally distorted stock balances. Fresh produce had short shelf lives, irregular demand, and visible quality decay. Waste rates were high, but the line between true demand volatility, poor ordering, and weak stock discipline was unclear. Bake-off bakery created an additional complication: products were delivered frozen or chilled, thawed and baked in store, then sold as fresh items with a sell-by horizon of hours rather than weeks.
+Frozen food moved through a disciplined cold-chain process and had long shelf lives. Waste was low, but pack-size conversions and transfer bookings between stores occasionally distorted stock balances. Fresh products had short shelf lives, irregular demand, and visible quality decay. Waste rates were high, but the line between true demand volatility, poor ordering, and weak stock discipline was unclear. Bake-off bakery created an additional complication: products were delivered frozen or chilled, thawed and baked in store, then sold as fresh items with a sell-by horizon of hours rather than weeks.
 
 The executive board wanted a practical answer within four weeks. The company did not ask for a perfect academic model. It asked for a management recommendation that could be defended under questioning.
 
@@ -24,11 +24,11 @@ Frozen food includes pizza, vegetables, ice cream, fish, ready meals, and frozen
 
 Frozen products are replenished two to three times per week from a regional distribution center. Store teams receive goods in cases and sell in consumer units. The ERP system records both unit quantities and case-equivalent quantities. Operations managers suspect that some inventory inaccuracies come from case-to-unit conversion mistakes.
 
-### Fresh Produce
+### Fresh Products
 
-Produce includes apples, bananas, berries, salads, tomatoes, peppers, herbs, potatoes, and seasonal fruit. Demand is volatile and weather-sensitive. Shelf life varies by item, typically from two to ten days. Waste occurs through visible spoilage, damage, quality downgrades, trimming, and unsold stock.
+Product includes apples, bananas, berries, salads, tomatoes, peppers, herbs, potatoes, and seasonal fruit. Demand is volatile and weather-sensitive. Shelf life varies by item, typically from two to ten days. Waste occurs through visible spoilage, damage, quality downgrades, trimming, and unsold stock.
 
-Produce receives daily deliveries. Store managers influence order quantities, especially for promotional and weather-sensitive products. The category team has historically tolerated higher waste if shelf presentation remains abundant. Finance now questions whether some stores are carrying too much inventory in slow-moving produce lines.
+Fresh products have daily deliveries. Store managers influence order quantities, especially for promotional and weather-sensitive products. The category team has historically tolerated higher waste if shelf presentation remains abundant. Finance now questions whether some stores are carrying too much inventory in slow-moving product lines.
 
 ### Bake-off Bakery
 
