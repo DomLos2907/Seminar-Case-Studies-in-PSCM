@@ -8,7 +8,7 @@ The material is designed for students in production, logistics, and supply chain
 
 - Diagnose return drivers using order-line, return authorization, inspection, refund, remarketing, and capacity data.
 - Compare customer-service promises against inspection capacity, backlog, refund speed, resale recovery, and write-off risk.
-- Identify where delayed processing creates value loss and where faster triage would matter most.
+- Identify where delayed processing creates value loss.
 - Evaluate whether return policy, inspection routing, staffing, refurbishment, and remarketing decisions should be changed.
 - Translate data findings into management recommendations that balance customer experience, operational capacity, and financial recovery.
 
