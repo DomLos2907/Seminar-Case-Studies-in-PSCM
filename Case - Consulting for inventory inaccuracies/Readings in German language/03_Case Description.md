@@ -1,4 +1,4 @@
-# Fallstudie: Cold Chains, Warm Shelves
+# Fallstudie: Kalte Ketten, warme Regale
 
 ## Das Bestandsproblem von Norda Market
 
