@@ -16,7 +16,7 @@ Teams may use Excel as the primary tool. Python, R, Power BI, or similar tools a
 
 ## Core Questions
 
-1. Which product categories, customer segments, and channels create the highest return burden after adjusting for sales volume and item value?
+1. Which product categories, customer segments, and channels create the highest return burden after adjusting for sales volume and value?
 2. Where does limited inspection capacity create the largest backlog and delay?
 3. Which delays matter most for resale recovery and value loss?
 4. Which return reasons and condition grades should receive faster triage?
