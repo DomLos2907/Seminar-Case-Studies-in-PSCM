@@ -26,7 +26,7 @@ Frozen products are replenished two to three times per week from a regional dist
 
 ### Fresh Products
 
-Product includes apples, bananas, berries, salads, tomatoes, peppers, herbs, potatoes, and seasonal fruit. Demand is volatile and weather-sensitive. Shelf life varies by item, typically from two to ten days. Waste occurs through visible spoilage, damage, quality downgrades, trimming, and unsold stock.
+This assortment includes apples, bananas, berries, salads, tomatoes, peppers, herbs, potatoes, and seasonal fruit. Demand is volatile and weather-sensitive. Shelf life varies by item, typically from two to ten days. Waste occurs through visible spoilage, damage, quality downgrades, trimming, and unsold stock.
 
 Fresh products have daily deliveries. Store managers influence order quantities, especially for promotional and weather-sensitive products. The category team has historically tolerated higher waste if shelf presentation remains abundant. Finance now questions whether some stores are carrying too much inventory in slow-moving product lines.
 
