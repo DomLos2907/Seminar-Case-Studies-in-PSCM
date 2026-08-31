@@ -36,7 +36,7 @@ Your analysis should include:
 - Inventory-accuracy indicators, such as count-adjustment rate, negative-stock frequency, correction intensity, and unexplained movement share.
 - Waste indicators, such as waste units, waste cost, waste-to-sales ratio, and waste by reason.
 - A comparison across frozen food, produce, and bakery.
-- At least three visualizations suitable for a management audience.
+- Visualizations suitable for a management audience.
 - A prioritized intervention roadmap with expected impact and implementation effort.
 
 ## Evaluation Criteria
