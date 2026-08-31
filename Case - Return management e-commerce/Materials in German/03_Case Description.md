@@ -2,86 +2,86 @@
 
 ## Das Retourenproblem von LumaHome Online
 
-An einem Dienstagmorgen im Mai stand Elena Hartmann, Chief Operations Officer von LumaHome Online, im Retourenzentrum ausserhalb von Leipzig und beobachtete, wie ein Foerderband drei verschiedene Versionen desselben Problems lieferte.
+An einem Dienstagmorgen im Mai stand Elena Hartmann, Chief Operations Officer von LumaHome Online, im Retourenzentrum ausserhalb von Leipzig und beobachtete, wie ein Förderband drei verschiedene Versionen desselben Problems lieferte.
 
-Das erste Paket enthielt ein Paar Schuhe in perfektem Zustand. Es koennte schnell wieder eingelagert werden, wenn es heute jemand prueft. Das zweite enthielt eine Kaffeemaschine mit unklarem Defekthinweis und ohne Kundenfoto. Es benoetigte einen technischen Check. Das dritte enthielt ein Kleid aus einer Promotion-Kampagne, die bereits beendet war. Es war verkaufsfaehig, aber jeder Tag in der Pruefwarteschlange reduzierte den Wiederverkaufswert.
+Das erste Paket enthielt ein Paar Schuhe in perfektem Zustand. Es könnte schnell wieder eingelagert werden, wenn es heute jemand prüft. Das zweite enthielt eine Kaffeemaschine mit unklarem Defekthinweis und ohne Kundenfoto. Es benötigte einen technischen Check. Das dritte enthielt ein Kleid aus einer Promotion-Kampagne, die bereits beendet war. Es war verkaufsfähig, aber jeder Tag in der Prüfwarteschlange reduzierte den Wiederverkaufswert.
 
-LumaHomes Kundenversprechen war einfach: einfach bestellen, einfach retournieren, schnelle Rueckerstattung. Die operative Realitaet war schwieriger. Retouren kamen ungleichmaessig nach Promotions, Feiertagen und saisonalen Kampagnen an. Apparel und Footwear erzeugten hohe Retourenquoten, weil Kundinnen und Kunden mehrere Groessen bestellten. Electronics hatten niedrigere Retourenquoten, aber eine verspaetete technische Pruefung konnte Recovery Value zerstoeren. Home Living war teuer zu handhaben. Einige Retouren konnten als neu wiederverkauft werden, einige benoetigten Outlet-Markdowns, einige Refurbishment, und einige haetten gar nicht in das Retourennetzwerk gelangen sollen.
+LumaHomes Kundenversprechen war einfach: einfach bestellen, einfach retournieren, schnelle Rückerstattung. Die operative Realität war schwieriger. Retouren kamen ungleichmässig nach Promotions, Feiertagen und saisonalen Kampagnen an. Apparel und Footwear erzeugten hohe Retourenquoten, weil Kundinnen und Kunden mehrere Größen bestellten. Electronics hatten niedrigere Retourenquoten, aber eine verspätete technische Prüfung konnte Recovery Valü zerstören. Home Living war teür zu handhaben. Einige Retouren konnten als neu wiederverkauft werden, einige benötigten Outlet-Markdowns, einige Refurbishment, und einige hätten gar nicht in das Retourennetzwerk gelangen sollen.
 
-Das Problem war nicht, dass Retouren unerwartet waren. Retouren gehoerten zum E-Commerce-Geschaeftsmodell. Das Problem war, dass LumaHome nicht wusste, wo es zuerst eingreifen sollte.
+Das Problem war nicht, dass Retouren unerwartet waren. Retouren gehörten zum E-Commerce-Geschäftsmodell. Das Problem war, dass LumaHome nicht wusste, wo es zürst eingreifen sollte.
 
 ## Unternehmenshintergrund
 
-LumaHome Online ist ein fiktiver europaeischer E-Commerce-Haendler mit zentralen Fulfillment Centern, regionalen Retourenzentren und einer wachsenden Direct-to-Consumer-Kundenbasis. Das Unternehmen verkauft in sechs grossen Produktkategorien.
+LumaHome Online ist ein fiktiver europäischer E-Commerce-Händler mit zentralen Fulfillment Centern, regionalen Retourenzentren und einer wachsenden Direct-to-Consumer-Kundenbasis. Das Unternehmen verkauft in sechs großen Produktkategorien.
 
 ### Apparel
 
-Apparel umfasst Hemden, Hosen, Jacken, Kleider und saisonale Modeartikel. Die Retourenquote ist hoch, weil Kundinnen und Kunden mehrere Groessen oder Stile bestellen. Der Pruefprozess ist meistens schnell, aber der Wiederverkaufswert sinkt rasch, wenn Promotionsfenster schliessen oder saisonale Relevanz abnimmt.
+Apparel umfasst Hemden, Hosen, Jacken, Kleider und saisonale Modeartikel. Die Retourenquote ist hoch, weil Kundinnen und Kunden mehrere Grössen oder Stile bestellen. Der Prüfprozess ist meistens schnell, aber der Wiederverkaufswert sinkt rasch, wenn Promotionsfenster schließen oder saisonale Relevanz abnimmt.
 
-Apparel-Retouren koennen oft als neu wieder eingelagert werden, wenn Verpackung und Labels intakt sind. Wenn die Pruefung verspaetet erfolgt, wandern Artikel moeglicherweise in Outlet oder Liquidation, obwohl ihr physischer Zustand gut ist.
+Apparel-Retouren können oft als neu wieder eingelagert werden, wenn Verpackung und Labels intakt sind. Wenn die Prüfung verspätet erfolgt, wandern Artikel möglicherweise in Outlet oder Liquidation, obwohl ihr physischer Zustand gut ist.
 
 ### Footwear
 
-Footwear hat aehnliche Size- und Fit-Probleme, aber die Pruefung ist etwas aufwendiger, weil Gebrauchsspuren schwieriger zu beurteilen sein koennen. Retourenquoten sind hoch, und Value Recovery haengt von schneller Bewertung und sauberer Verpackung ab.
+Footwear hat ähnliche Size- und Fit-Probleme, aber die Prüfung ist etwas aufwendiger, weil Gebrauchsspuren schwieriger zu beurteilen sein können. Retourenquoten sind hoch, und Valü Recovery hängt von schneller Bewertung und sauberer Verpackung ab.
 
-Das Management vermutet, dass manche Kundinnen und Kunden kostenlose Retouren als Try-at-home-Service nutzen. Eine strengere Return Policy koennte Volumen reduzieren, aber auch Conversion senken.
+Das Management vermutet, dass manche Kundinnen und Kunden kostenlose Retouren als Try-at-home-Service nutzen. Eine strengere Return Policy könnte Volumen reduzieren, aber auch Conversion senken.
 
 ### Consumer Electronics
 
-Consumer Electronics umfassen kleine Haushaltsgeraete, Smart-Home-Devices, Audiogeraete und Zubehoer. Die Retourenquote ist niedriger als bei Apparel, aber die Pruefung dauert laenger und ist teurer. Defect Claims erfordern technische Checks, und Verzoegerungen koennen den Wiederverkaufswert reduzieren, weil sich Produktversionen aendern.
+Consumer Electronics umfassen kleine Haushaltsgeräte, Smart-Home-Devices, Audiogeräte und Zubehör. Die Retourenquote ist niedriger als bei Apparel, aber die Prüfung daürt länger und ist teurer. Defect Claims erfordern technische Checks, und Verzögerungen können den Wiederverkaufswert reduzieren, weil sich Produktversionen ändern.
 
-Electronics erzeugen eine andere Herausforderung: Eine einzelne verspaetete Retoure kann finanziell schwerer wiegen als viele niedrigwertige Apparel-Artikel.
+Electronics erzeugen eine andere Herausforderung: Eine einzelne verspätete Retoure kann finanziell schwerer wiegen als viele niedrigwertige Apparel-Artikel.
 
 ### Home Living
 
-Home Living umfasst Dekoartikel, Lampen, Aufbewahrungsprodukte, kleine Moebel und Kuechenwaren. Die Artikel unterscheiden sich stark in Groesse und Handling-Aufwand. Transportschaden, fehlende Teile und Verpackungszustand beeinflussen den Recovery Path.
+Home Living umfasst Dekoartikel, Lampen, Aufbewahrungsprodukte, kleine Möbel und Küchenwaren. Die Artikel unterscheiden sich stark in Größe und Handling-Aufwand. Transportschaden, fehlende Teile und Verpackungszustand beeinflussen den Recovery Path.
 
-Die Kategorie belastet Retourenzentrumsflaechen, weil sperrige Artikel in Backlog-Perioden schnell Raum einnehmen.
+Die Kategorie belastet Retourenzentrumsflächen, weil sperrige Artikel in Backlog-Perioden schnell Raum einnehmen.
 
 ### Sports and Outdoor
 
-Sports and Outdoor umfasst Fitnessgeraete, Campingzubehoer und saisonale Produkte. Nachfrage und Retourentiming sind promotion-getrieben. Einige Artikel koennen schnell wiederverkauft werden, andere verlieren nach saisonalen Peaks rasch an Wert.
+Sports and Outdoor umfasst Fitnessgeräte, Campingzubehör und saisonale Produkte. Nachfrage und Retourentiming sind promotion-getrieben. Einige Artikel können schnell wiederverkauft werden, andere verlieren nach saisonalen Peaks rasch an Wert.
 
 ### Beauty and Health
 
-Beauty and Health hat niedrigere durchschnittliche Artikelwerte, aber strengere Wiederverkaufsbeschraenkungen. Viele Retouren koennen nach Oeffnung nicht mehr als neu verkauft werden. Das finanzielle Problem liegt weniger in der Pruefgeschwindigkeit als in korrektem Routing und Policy Design.
+Beauty and Health hat niedrigere durchschnittliche Artikelwerte, aber strengere Wiederverkaufsbeschränkungen. Viele Retouren können nach öffnung nicht mehr als neu verkauft werden. Das finanzielle Problem liegt weniger in der Prüfgeschwindigkeit als in korrektem Routing und Policy Design.
 
-## Ausloeser
+## Auslöser
 
 Anfang 2026 startete LumaHome einen Wachstumsplan mit kostenlosen Retouren, schnelleren Refund-Versprechen und aggressiven saisonalen Promotions. Der Umsatz stieg. Das Retourenvolumen stieg schneller.
 
 Bis April stand das Retourenzentrumsnetzwerk unter Druck:
 
 - Der Backlog stieg nach Promotionskampagnen und Month-End-Lieferwellen.
-- Refunds wurden in vielen Faellen vor der Pruefung gezahlt, was Manual Review und Dispute Risk erhoehte.
+- Refunds wurden in vielen Fällen vor der Prüfung gezahlt, was Manual Review und Dispute Risk erhöhte.
 - Hochwertige Electronics warteten zu lange auf technische Checks.
-- Apparel und Footwear kamen in verkaufsfaehigem Zustand an, verpassten aber ihr bestes Wiederverkaufsfenster.
-- Outlet- und Liquidation-Anteile stiegen und reduzierten Recovery Value.
-- Customer Service erhielt Beschwerden ueber langsame Refunds, waehrend Finance die Kosten grosszuegiger Retourenregeln hinterfragte.
+- Apparel und Footwear kamen in verkaufsfähigem Zustand an, verpassten aber ihr bestes Wiederverkaufsfenster.
+- Outlet- und Liquidation-Anteile stiegen und reduzierten Recovery Valü.
+- Customer Service erhielt Beschwerden über langsame Refunds, während Finance die Kosten grosszügiger Retourenregeln hinterfragte.
 
-Operations argumentierte, dass das Unternehmen mehr Pruefkapazitaet benoetige. Finance argumentierte, dass Staffing allein weder Retourenverhalten noch schlechte Triage loese. Merchandising argumentierte, dass manche Produktseiten und Groessenempfehlungen vermeidbare Retouren erzeugten. Customer Experience argumentierte, dass strenge Retourenregeln Vertrauen beschaedigen wuerden.
+Operations argumentierte, dass das Unternehmen mehr Prüfkapazität benötige. Finance argumentierte, dass Staffing allein weder Retourenverhalten noch schlechte Triage löse. Merchandising argumentierte, dass manche Produktseiten und Grössenempfehlungen vermeidbare Retouren erzeugten. Customer Experience argumentierte, dass strenge Retourenregeln Vertraün beschädigen würden.
 
 Elena Hartmann bat ein externes studentisches Beratungsteam, eine Frage zu beantworten:
 
-> Wo sollte LumaHome zuerst eingreifen, wenn das Unternehmen Margenverluste aus Retouren reduzieren will, ohne das Kundenerlebnis zu beschaedigen?
+> Wo sollte LumaHome zürst eingreifen, wenn das Unternehmen Margenverluste aus Retouren reduzieren will, ohne das Kundenerlebnis zu beschädigen?
 
 ## Die Entscheidung
 
-LumaHome muss entscheiden, wie der Retourenprozess vor der naechsten saisonalen Kampagne veraendert wird. Das Management kann temporaere Pruefkapazitaet aufbauen, Fast Lanes schaffen, ausgewaehlte Refunds bis nach der Pruefung verzoegern, Produktseiten verbessern, Abuse Controls verschaerfen, Refurbishment Routing verbessern oder Remarketing-Prioritaeten neu definieren. Es kann nicht jedes Problem gleichzeitig loesen.
+LumaHome muss entscheiden, wie der Retourenprozess vor der nächsten saisonalen Kampagne verändert wird. Das Management kann temporäre Prüfkapazität aufbaün, Fast Lanes schaffen, ausgewählte Refunds bis nach der Prüfung verzögern, Produktseiten verbessern, Abuse Controls verschärfen, Refurbishment Routing verbessern oder Remarketing-Prioritäten neu definieren. Es kann nicht jedes Problem gleichzeitig lösen.
 
-Das studentische Team muss mit den verfuegbaren Daten ein belastbares Argument aufbauen. Eine starke Antwort identifiziert nicht einfach die Produktkategorie mit der hoechsten Retourenquote. Sie unterscheidet zwischen Return Propensity, Item Value, Inspection Effort, Capacity Bottlenecks, Refund Policy, Resale Decay, Product Quality, Customer Behavior und Datenqualitaetsrauschen.
+Das studentische Team muss mit den verfügbaren Daten ein belastbares Argument aufbaün. Eine starke Antwort identifiziert nicht einfach die Produktkategorie mit der höchsten Retourenquote. Sie unterscheidet zwischen Return Propensity, Item Valü, Inspection Effort, Capacity Bottlenecks, Refund Policy, Resale Decay, Product Quality, Customer Behavior und Datenqualitätsrauschen.
 
 ## Managementrestriktionen
 
-LumaHomes Fuehrung hat fuenf Restriktionen festgelegt:
+LumaHomes Führung hat fünf Restriktionen festgelegt:
 
-1. Customer Experience darf nicht ohne klare Evidenz fuer finanziellen Nutzen beschaedigt werden.
-2. Empfehlungen muessen vor der naechsten saisonalen Kampagne umsetzbar sein.
-3. Jede vorgeschlagene KPI muss fuer Operations, Finance, Merchandising, Customer Service und Sustainability verstaendlich sein.
-4. Die Analyse muss Datenqualitaetsprobleme so weit wie moeglich von Return-, Inspection- und Resale-Performance trennen.
-5. Die Abschlusspraesentation muss knapp genug fuer ein 15-minuetiges Managementmeeting sein.
+1. Customer Experience darf nicht ohne klare Evidenz für finanziellen Nutzen beschädigt werden.
+2. Empfehlungen müssen vor der nächsten saisonalen Kampagne umsetzbar sein.
+3. Jede vorgeschlagene KPI muss für Operations, Finance, Merchandising, Customer Service und Sustainability verständlich sein.
+4. Die Analyse muss Datenqualitätsprobleme so weit wie möglich von Return-, Inspection- und Resale-Performance trennen.
+5. Die Abschlusspräsentation muss knapp genug für ein 15-minütiges Managementmeeting sein.
 
-## Verfuegbare Daten
+## Verfügbare Daten
 
 Studierende erhalten mehrere Excel-Workbooks zum E-Commerce-Retourenprozess:
 
@@ -93,11 +93,11 @@ Studierende erhalten mehrere Excel-Workbooks zum E-Commerce-Retourenprozess:
 - Return-Center Capacity Calendars.
 - Produkt-, Return-Center-, Fulfillment-Center-, Customer-Segment-, Carrier-, Cost-, Calendar- und Policy-Referenzen.
 
-Jedes gesplittete Workbook enthaelt:
+Jedes gesplittete Workbook enthält:
 
-- Ein Hauptdatenblatt mit operativen Datensaetzen.
-- Referenzblaetter mit Produkt-, Return-Center- und Kundensegmentattributen, soweit relevant.
-- Ein Annahmenblatt zur Generierungslogik und zu didaktischen Einschraenkungen.
+- Ein Hauptdatenblatt mit operativen Datensätzen.
+- Referenzblätter mit Produkt-, Return-Center- und Kundensegmentattributen, soweit relevant.
+- Ein Annahmenblatt zur Generierungslogik und zu didaktischen Einschränkungen.
 - Ein Split-Info-Blatt, sofern zutreffend.
 
-Das Unternehmen weist darauf hin, dass nicht jeder Datensatz ungeprueft uebernommen werden sollte. Die Daten spiegeln Order Systems, Return Portals, Warehouse Scans, Inspection Workstations, Payment Systems und Resale Platforms wider. Sie bilden keine bereinigte Analysetabelle.
+Das Unternehmen weist darauf hin, dass nicht jeder Datensatz ungeprüft übernommen werden sollte. Die Daten spiegeln Order Systems, Return Portals, Warehouse Scans, Inspection Workstations, Payment Systems und Resale Platforms wider. Sie bilden keine bereinigte Analysetabelle.
