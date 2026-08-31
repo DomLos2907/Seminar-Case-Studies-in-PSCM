@@ -7,7 +7,7 @@ Das Material ist für Studierende im Bereich Produktion, Logistik und Supply Cha
 ## Lernziele
 
 - Bestandsungenauigkeiten anhand transaktionsbasierter Warenbewegungen diagnostizieren.
-- Vergleichen, wie Haltbarkeit, Nachfrageschwankungen und Handling-Routinen Waste beeinflussen.
+- Vergleichen, wie Haltbarkeit, Nachfrageschwankungen und Handling-Routinen Warenverlust beeinflussen.
 - Wahrscheinliche Prozessursachen für Abweichungen zwischen Buchbestand und physischem Bestand identifizieren.
 - Bewerten, ob aktuelle Bestell- und Nachschubroutinen zu Schwund und Abschriften beitragen.
 - Datenbasierte Erkenntnisse in Managementempfehlungen übersetzen.
@@ -16,7 +16,7 @@ Das Material ist für Studierende im Bereich Produktion, Logistik und Supply Cha
 
 - Kick-off: Einführung in Fallstudie, Umfang und Teamrollen.
 - Online-Termin 1: Datenprüfung und erste Hypothesen zur Bestandsgenauigkeit.
-- Online-Termin 2: Waste-, Bestellpolitik- und finanzielle Wirkungsanalyse.
+- Online-Termin 2: Verderb-, Bestellpolitik- und finanzielle Wirkungsanalyse.
 - Abschlussveranstaltung in Präsenz: Managementpräsentation und Q&A.
 
 ## Dateien
