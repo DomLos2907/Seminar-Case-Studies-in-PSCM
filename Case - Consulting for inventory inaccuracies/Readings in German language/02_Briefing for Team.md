@@ -2,14 +2,14 @@
 
 ## Rolle
 
-Sie sind ein Analytics-Task-Force-Team und beraten den Chief Operations Officer von Norda Market. Ihre Aufgabe ist es, Bestandsungenauigkeiten und Waste-Muster in den Sortimenten Tiefkühlprodukte, Frischobst und -gemüse sowie Bake-off-Backwaren zu diagnostizieren und anschließend ein fokussiertes Interventionsprogramm zu empfehlen.
+Sie sind ein Analytics-Task-Force-Team und beraten den Chief Operations Officer von Norda Market. Ihre Aufgabe ist es, Bestandsungenauigkeiten und Warenverlust-Muster in den Sortimenten Tiefkühlprodukte, Frischobst und -gemüse sowie Bake-off-Backwaren zu diagnostizieren und anschließend ein fokussiertes Interventionsprogramm zu empfehlen.
 
 ## Teamaufstellung
 
 Jedes Team sollte klare Verantwortlichkeiten festlegen für:
 
 - Datenqualität und Diagnostik der Bestandsgenauigkeit.
-- Waste- und finanzielle Wirkungsanalyse.
+- Warenverlust- und finanzielle Wirkungsanalyse.
 - Bestellpolitik und Gestaltung der Managementempfehlung.
 
 Teams können Excel als primäres Werkzeug verwenden. Python, R, Power BI oder vergleichbare Werkzeuge sind für Datenaufbereitung, Visualisierung und Robustheitsprüfungen erlaubt.
@@ -18,9 +18,9 @@ Teams können Excel als primäres Werkzeug verwenden. Python, R, Power BI oder v
 
 1. Welches Sortiment zeigt nach Berücksichtigung seiner operativen Eigenschaften das schwerwiegendste Problem der Bestandsgenauigkeit?
 2. Welche Transaktionstypen tragen am stärksten zur Verzerrung des Buchbestands bei?
-3. Wo scheinen Waste und Bestandsungenauigkeit einander zu verstärken?
+3. Wo scheinen Warenverlust und Bestandsungenauigkeit einander zu verstärken?
 4. Welche Filialen, SKU-Gruppen oder Nachfrageprofile sollte das Management priorisieren?
-5. Sind die beobachteten Waste-Raten vor allem strukturell, prozessbedingt oder datenqualitätsbedingt?
+5. Sind die beobachteten Warenverlust-Raten vor allem strukturell, prozessbedingt oder datenqualitätsbedingt?
 6. Welche Änderungen der Bestellpolitik könnten vermeidbare Abschriften reduzieren, ohne Stockouts zu erhöhen?
 7. Welche Datenqualitätsprobleme beeinflussen die Managementschlussfolgerungen wesentlich?
 8. Welches KPI-Dashboard sollte Norda Market für Filialmanager einführen?
@@ -33,8 +33,8 @@ Ihre Analyse sollte enthalten:
 
 - Eine reproduzierbare Logik zur Datenbereinigung.
 - Eine Abstimmung der Transaktionstypen nach Sortiment.
-- Kennzahlen zur Bestandsgenauigkeit, z. B. Inventurkorrekturrate, Häufigkeit negativer Bestände, Korrekturintensität und Anteil unerklärter Bewegungen.
-- Waste-Kennzahlen, z. B. Waste-Mengen, Waste-Kosten, Waste-to-Sales-Ratio und Waste nach Grund.
+- Kennzahlen zur Bestandsgenauigkeit, z. B. Inventurkorrekturrate, Häufigkeit negativer Bestände, Korrekturintensität und unerklärte Bewegungen.
+- Warenverlust-Kennzahlen, z. B. Mengen, Kosten, Warenverlust-Abverkauf-Rate und Warenverlust nach Grund.
 - Einen Vergleich zwischen Tiefkühlprodukten, Obst und Gemüse sowie Backwaren.
 - Mindestens drei Visualisierungen, die für ein Managementpublikum geeignet sind.
 - Eine priorisierte Roadmap mit erwarteter Wirkung und Umsetzungsaufwand.
