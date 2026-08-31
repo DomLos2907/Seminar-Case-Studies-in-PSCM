@@ -10,14 +10,14 @@ Zentrale Tabelle der Sendungen auf Consignment-Ebene.
 
 | Feld | Bedeutung |
 | --- | --- |
-| consignment_id | Sendungskennung. Doppelte Werte treten in ausgewählten Zeilen bewusst auf. |
+| consignment_id | Sendungskennung. Doppelte Werte treten in ausgewählten Zeilen auf. |
 | booking_date | Datum, an dem die Sendung gebucht wurde. |
 | pickup_date | Geplantes oder tatsächliches Abholdatum. |
 | origin_depot | Kennung des Origin-Depots. |
-| destination_depot | Kennung des Destination-Depots. Einige Zeilen enthalten bewusst fehlende Werte. |
+| destination_depot | Kennung des Destination-Depots. Einige Zeilen enthalten fehlende Werte. |
 | planned_hub | Für Konsolidierung oder Cross-Dock geplantes Hub. |
-| actual_hub | Operativ genutztes Hub. Einige Zeilen enthalten bewusst fehlende Werte oder Umleitungen. |
-| service_class | Premium, Standard oder Economy. Einige Zeilen verwenden bewusst uneinheitliche Bezeichnungen. |
+| actual_hub | Operativ genutztes Hub. Einige Zeilen enthalten fehlende Werte oder Umleitungen. |
+| service_class | Premium, Standard oder Economy. Einige Zeilen verwenden uneinheitliche Bezeichnungen. |
 | customer_segment | Der Sendung zugeordnetes Kundensegment. |
 | product_group | Stückgut-Frachtkategorie. |
 | handling_units | Anzahl physischer Handling Units in der Sendung. |
