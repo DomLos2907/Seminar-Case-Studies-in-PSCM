@@ -1,4 +1,4 @@
-# Bestandsungenauigkeiten im Food Retail
+# Bestandsungenauigkeiten im Lebensmitteleinzelhandel
 
 Diese Fallstudie versetzt Studierende in die Rolle eines Analytics-Task-Force-Teams bei Norda Market, einem fiktiven mittelgroßen Lebensmitteleinzelhändler mit Filialen in Deutschland. Das Unternehmen steht unter Druck, vermeidbaren Waste zu reduzieren und die Bestandsgenauigkeit in drei operativ unterschiedlichen Sortimenten zu verbessern: Tiefkühlprodukte, Frischobst und -gemüse sowie Bake-off-Backwaren.
 
