@@ -23,3 +23,4 @@ The material is designed for students in production, logistics and supply chain 
 
 The dataset covers a six-month operating window in a European transport network. It includes contracted tender awards, shipment execution, tender acceptance and rejection outcomes, spot quotes, service failures, carrier scorecards, lane attributes, customer segments, cost assumptions, and CO2 reference parameters. The records intentionally contain realistic data-quality issues such as missing actual-delivery dates, inconsistent lane references, duplicate shipment references, negative or implausible spot premiums, incomplete exception codes, and emissions records that require interpretation.
 
+The datasets are fictional and generated for teaching purposes. They are not based on confidential company records.
