@@ -2,7 +2,7 @@
 
 Diese Fallstudie versetzt Studierende in die Rolle einer Analytics Task Force bei Asterion Motion Systems, einem fiktiven mittelständischen Hersteller elektromechanischer Antriebsmodule für Industrieanlagen, Lagerautomatisierung und Nutzfahrzeuge. Das Unternehmen steht unter Druck, Produktionsstörungen zu reduzieren, die durch verspätete Lieferungen, Teillieferungen, Qualitätssperren und Materialengpässe entstehen.
 
-Das Material richtet sich an Studierende in production, Logistik und Supply Chain Management mit vorhandenen Grundlagen in Datenanalyse. Die Hauptanalyse kann in Excel bearbeitet werden. Python, R, Power BI oder vergleichbare Werkzeuge können für Datenbereinigung, Modellierung und Visualisierung eingesetzt werden.
+Das Material richtet sich an Studierende in Produktion, Logistik und Supply Chain Management mit vorhandenen Grundlagen in Datenanalyse. Die Hauptanalyse kann in Excel bearbeitet werden. Python, R, Power BI oder vergleichbare Werkzeuge können für Datenbereinigung, Modellierung und Visualisierung eingesetzt werden.
 
 ## Lernziele
 
