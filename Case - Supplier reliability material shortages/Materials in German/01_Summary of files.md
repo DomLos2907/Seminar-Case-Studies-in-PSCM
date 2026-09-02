@@ -6,18 +6,18 @@ Das Material richtet sich an Studierende in Produktion, Logistik und Supply Chai
 
 ## Lernziele
 
-Lieferantenzuverlässigkeit anhand von Bestell-, Wareneingangs-, Engpass- und Produktionsbedarfsdaten diagnostizieren.
-Analysieren, wie Lieferzeit, Lieferantenabhängigkeit, Materialkritikalität und Nachfrageschwankungen das Produktionsrisiko beeinflussen.
-Prozessuale Ursachen für verspätete Lieferungen, Teillieferungen, Qualitätssperren und Engpassereignisse identifizieren.
-Beurteilen, ob aktuelle Dispositionsparameter und Sourcing-Entscheidungen zu Materialengpässen beitragen.
-Datenbasierte Erkenntnisse in Managementempfehlungen übersetzen.
+- Lieferantenzuverlässigkeit anhand von Bestell-, Wareneingangs-, Engpass- und Produktionsbedarfsdaten diagnostizieren.
+- Analysieren, wie Lieferzeit, Lieferantenabhängigkeit, Materialkritikalität und Nachfrageschwankungen das Produktionsrisiko beeinflussen.
+- Prozessuale Ursachen für verspätete Lieferungen, Teillieferungen, Qualitätssperren und Engpassereignisse identifizieren.
+- Beurteilen, ob aktuelle Dispositionsparameter und Sourcing-Entscheidungen zu Materialengpässen beitragen.
+- Datenbasierte Erkenntnisse in Managementempfehlungen übersetzen.
 
 ## Vorgeschlagenes Kursformat
 
-Kick-off: Einführung in den Case, Abgrenzung des Analyseumfangs, Rollenverteilung.
-Online-Meeting 1: Datenprüfung und erste Hypothesen zur Lieferantenzuverlässigkeit.
-Online-Meeting 2: Analyse von Engpässen, Lieferzeiten, Dispositionsparametern und Kosteneffekten.
-Abschlussveranstaltung in Präsenz: Managementpräsentation und Q&A.
+- Kick-off: Einführung in den Case, Abgrenzung des Analyseumfangs, Rollenverteilung.
+- Online-Meeting 1: Datenprüfung und erste Hypothesen zur Lieferantenzuverlässigkeit.
+- Online-Meeting 2: Analyse von Engpässen, Lieferzeiten, Dispositionsparametern und Kosteneffekten.
+- Abschlussveranstaltung in Präsenz: Managementpräsentation und Q&A.
 
 ## Datenumfang
 
