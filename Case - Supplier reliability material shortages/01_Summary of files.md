@@ -22,3 +22,5 @@ The material is designed for students in production, logistics and supply chain 
 ## Dataset Scope
 
 The dataset covers a six-month operating window in a manufacturing supply chain. It includes purchase orders, goods receipts, production demand, shortage events, expedite shipments, supplier attributes, material master data, plant data, and cost assumptions. The records intentionally contain realistic data-quality issues such as missing supplier confirmations, inconsistent units of measure, duplicate purchase order lines, late postings, partial deliveries, quality holds, lead-time outliers, and incomplete shortage root-cause codes.
+
+The datasets are fictional and generated for teaching purposes. They are not based on confidential company records.
