@@ -6,7 +6,7 @@ The material is designed for students in production, logistics and supply chain 
 
 ## Learning Objectives
 
-- Diagnose carrier performance using tender bids, lane awards, shipment execution, spot-market quotes, service failures, and sustainability data.
+- Diagnose carrier performance using tender bids, lane awards, shipment execution, spot-market quotes, failures, and sustainability data.
 - Compare freight cost savings against late deliveries, tender rejections, spot premiums, claims, and CO2 target deviations.
 - Identify where cheap contracted carriers create hidden costs or operational risk.
 - Evaluate whether carrier allocation, lane strategy, mode choice, and tender governance should be changed.
