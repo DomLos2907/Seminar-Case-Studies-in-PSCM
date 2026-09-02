@@ -14,31 +14,6 @@ Each team should assign clear ownership for:
 
 Teams may use Excel as the primary tool. Python, R, Power BI, or similar tools are permitted for data preparation, visualization, and robustness checks.
 
-## Suggested Milestones
-
-### Kick-off Session
-
-- Understand the business context and constraints.
-- Inspect the data structure and assign team roles.
-- Form initial hypotheses about supplier reliability and shortage drivers.
-
-### Online Meeting 1
-
-- Present a data-quality assessment.
-- Show preliminary supplier-performance indicators by supplier, material group, plant, and criticality.
-- Identify records that should be excluded, corrected, or flagged.
-
-### Online Meeting 2
-
-- Present material-shortage and production-disruption patterns.
-- Link shortage outcomes to supplier reliability, lead-time variability, planning parameters, quality holds, and transaction anomalies.
-- Draft the intervention logic and expected management impact.
-
-### Final Session
-
-- Deliver a management recommendation.
-- Defend the analytical method and practical feasibility.
-
 ## Core Questions
 
 1. Which suppliers show the most severe reliability problem after adjusting for material criticality and order volume?
