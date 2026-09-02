@@ -14,31 +14,6 @@ Jedes Team sollte klare Verantwortlichkeiten vergeben für:
 
 Excel kann als primäres Analysewerkzeug genutzt werden. Python, R, Power BI oder vergleichbare Werkzeuge sind für Datenaufbereitung, Visualisierung und Robustheitsprüfungen erlaubt.
 
-## Vorgeschlagene Meilensteine
-
-### Kick-off
-
-- Geschäftlichen Kontext und Restriktionen verstehen.
-- Datenstruktur prüfen und Teamrollen festlegen.
-- Erste Hypothesen zu Lieferantenzuverlässigkeit und Engpassursachen formulieren.
-
-### Online-Meeting 1
-
-- Datenqualitätsprüfung vorstellen.
-- Erste Kennzahlen zur Lieferantenperformance nach Lieferant, Materialgruppe, Standort und Kritikalität zeigen.
-- Datensätze identifizieren, die ausgeschlossen, korrigiert oder markiert werden sollten.
-
-### Online-Meeting 2
-
-- Muster von Materialengpässen und Produktionsstörungen vorstellen.
-- Engpasswirkungen mit Lieferantenzuverlässigkeit, Lieferzeitvariabilität, Dispositionsparametern, Qualitätssperren und Buchungsanomalien verknüpfen.
-- Logik der Interventionen und erwarteten Managementwirkung skizzieren.
-
-### Abschlussveranstaltung
-
-- Managementempfehlung präsentieren.
-- Analytische Methode und praktische Umsetzbarkeit verteidigen.
-
 ## Leitfragen
 
 1. Welche Lieferanten zeigen nach Berücksichtigung von Materialkritikalität und Bestellvolumen das schwerwiegendste Zuverlässigkeitsproblem?
