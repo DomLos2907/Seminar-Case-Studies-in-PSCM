@@ -2,7 +2,7 @@
 
 This case study places students in the role of an analytics task force at Asterion Motion Systems, a fictional mid-sized manufacturer of electromechanical drive modules for industrial equipment and commercial vehicles. The company is under pressure to reduce production disruptions caused by late supplier deliveries, partial receipts, quality holds, and material shortages.
 
-The material is designed for students in logistics and supply chain management, with prior exposure to data analysis. The main analytical work can be completed in Excel, but students may also use Python, R, Power BI, or similar tools for cleaning, modelling, and visualization.
+The material is designed for students in production, logistics and supply chain management, with prior exposure to data analysis. The main analytical work can be completed in Excel, but students may also use Python, R, Power BI, or similar tools for cleaning, modelling, and visualization.
 
 ## Learning Objectives
 
