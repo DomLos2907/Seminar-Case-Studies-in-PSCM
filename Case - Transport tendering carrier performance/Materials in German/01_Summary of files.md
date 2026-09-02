@@ -2,7 +2,7 @@
 
 Diese Fallstudie versetzt Studierende in die Rolle eines Analytics Task Force bei Veridian Home & Living, einem fiktiven europäischen Hersteller und Distributor von Haushaltsgeräten, Heimwerkerprodukten und saisonalen Konsumgütern. Das Unternehmen vergibt Transportvolumen über Jahres- und Mini-Tender an vertraglich gebundene Frachtführer. Die jüngste Low-Cost-Sourcing-Strategie hat jedoch einen schwierigen Zielkonflikt zwischen Frachtkosten, Lieferservice, Spotmarkt-Exposition und CO2-Performance erzeugt.
 
-Das Material richtet sich an Bachelorstudierende in Logistik und Supply Chain Management mit vorhandenen Grundlagen in Datenanalyse. Die Hauptanalyse kann in Excel bearbeitet werden. Python, R, Power BI oder vergleichbare Werkzeuge können für Datenbereinigung, Modellierung und Visualisierung eingesetzt werden.
+Das Material richtet sich an Studierende in Produktion, Logistik und Supply Chain Management mit vorhandenen Grundlagen in Datenanalyse. Die Hauptanalyse kann in Excel bearbeitet werden. Python, R, Power BI oder vergleichbare Werkzeuge können für Datenbereinigung, Modellierung und Visualisierung eingesetzt werden.
 
 ## Lernziele
 
