@@ -14,31 +14,6 @@ Jedes Team sollte klare Verantwortlichkeiten vergeben für:
 
 Excel kann als primäres Analysewerkzeug genutzt werden. Python, R, Power BI oder vergleichbare Werkzeuge sind für Datenaufbereitung, Visualisierung und Robustheitsprüfungen erlaubt.
 
-## Vorgeschlagene Meilensteine
-
-### Kick-off
-
-- Geschäftlichen Kontext und Restriktionen verstehen.
-- Datenstruktur prüfen und Teamrollen festlegen.
-- Erste Hypothesen zu Kosten-, Service-, Spotmarkt- und CO2-Zielkonflikten formulieren.
-
-### Online-Meeting 1
-
-- Datenqualitätsprüfung vorstellen.
-- Erste Kennzahlen zur Carrier Performance nach Carrier, Lane Group, Tender Rank, Kundensegment und Mode zeigen.
-- Datensätze identifizieren, die ausgeschlossen, korrigiert oder markiert werden sollten.
-
-### Online-Meeting 2
-
-- Tender-Waterfall- und Spotmarkt-Muster vorstellen.
-- Transportergebnisse mit Award Shares, Carrier Acceptance, Shipment Delays, Accessorial Costs, Claims und Emissionen verknüpfen.
-- Logik der Interventionen und erwarteten Managementwirkung skizzieren.
-
-### Abschlussveranstaltung
-
-- Managementempfehlung präsentieren.
-- Analytische Methode und praktische Umsetzbarkeit verteidigen.
-
 ## Leitfragen
 
 1. Welche Carrier erscheinen im Tender günstig, sind aber nach Service Failures, Spot Substitution, Claims und CO2-Abweichungen teuer?
