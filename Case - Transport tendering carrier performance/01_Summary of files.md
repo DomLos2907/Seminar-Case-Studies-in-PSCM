@@ -2,7 +2,7 @@
 
 This case study places students in the role of an analytics task force at Veridian Home & Living, a fictional European manufacturer and distributor of household appliances, home improvement products, and seasonal consumer goods. The company awards transport volumes to contracted carriers through annual and mini-tender processes, but its recent low-cost sourcing strategy has created a difficult trade-off between freight cost, delivery service, spot-market exposure, and CO2 performance.
 
-The material is designed for undergraduate students in logistics and supply chain management, with prior exposure to data analysis. The main analytical work can be completed in Excel, but students may also use Python, R, Power BI, or similar tools for cleaning, modelling, and visualization.
+The material is designed for students in production, logistics and supply chain management, with prior exposure to data analysis. The main analytical work can be completed in Excel, but students may also use Python, R, Power BI, or similar tools for cleaning, modelling, and visualization.
 
 ## Learning Objectives
 
