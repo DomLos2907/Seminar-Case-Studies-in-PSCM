@@ -14,31 +14,6 @@ Each team should assign clear ownership for:
 
 Teams may use Excel as the primary tool. Python, R, Power BI, or similar tools are permitted for data preparation, visualization, and robustness checks.
 
-## Suggested Milestones
-
-### Kick-off Session
-
-- Understand the business context and constraints.
-- Inspect the data structure and assign team roles.
-- Form initial hypotheses about cost, service, spot-market, and CO2 trade-offs.
-
-### Online Meeting 1
-
-- Present a data-quality assessment.
-- Show preliminary carrier-performance indicators by carrier, lane group, tender rank, customer segment, and mode.
-- Identify records that should be excluded, corrected, or flagged.
-
-### Online Meeting 2
-
-- Present tender-waterfall and spot-market patterns.
-- Link transport outcomes to tender award shares, carrier acceptance, shipment delays, accessorial cost, claims, and emissions.
-- Draft the intervention logic and expected management impact.
-
-### Final Session
-
-- Deliver a management recommendation.
-- Defend the analytical method and practical feasibility.
-
 ## Core Questions
 
 1. Which carriers appear cheap in the tender but expensive after service failures, spot substitution, claims, and CO2 deviations are considered?
