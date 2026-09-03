@@ -22,3 +22,5 @@ Das Material richtet sich an Studierende in Produktion, Logistik und Supply Chai
 ## Datenumfang
 
 Der Datensatz umfasst ein sechsmonatiges Betriebsfenster in einer Fertigungs-Supply-Chain. Enthalten sind Bestellungen, Wareneingänge, Produktionsbedarfe, Engpassereignisse, Express- und Notfallbeschaffungen, Lieferantenattribute, Materialstammdaten, Standortdaten und Kostenannahmen. Die Daten enthalten bewusst realistische Datenqualitätsprobleme wie fehlende Lieferantenbestätigungen, späte Buchungen, doppelte Bestellpositionsreferenzen, Teillieferungen, inkonsistente Mengeneinheiten, Lieferzeitausreißer und unvollständige Root-Cause-Codes.
+
+Die Datensätze sind fiktiv und wurden zu Lehrzwecken erstellt. Sie basieren nicht auf vertraulichen Unternehmensunterlagen.
