@@ -22,3 +22,5 @@ Das Material richtet sich an Studierende in Produktion, Logistik und Supply Chai
 ## Datenumfang
 
 Der Datensatz umfasst ein sechsmonatiges Betriebsfenster in einem europäischen Transportnetzwerk. Enthalten sind vertragliche Tender Awards, Shipment Execution, Tender Acceptance und Rejection Outcomes, Spot Quotes, Service Failures, Carrier Scorecards, Lane-Attribute, Kundensegmente, Kostenannahmen und CO2-Referenzparameter. Die Daten enthalten bewusst realistische Datenqualitätsprobleme wie fehlende tatsächliche Lieferdaten, inkonsistente Lane-Referenzen, doppelte Shipment-Referenzen, negative oder unplausible Spot-Premiums, unvollständige Exception Codes und Emissionsdaten, die interpretiert werden müssen.
+
+Die Datensätze sind fiktiv und wurden zu Lehrzwecken erstellt. Sie basieren nicht auf vertraulichen Unternehmensunterlagen.
